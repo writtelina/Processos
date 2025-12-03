@@ -1,0 +1,5 @@
+{
+  "name": "Embrapa Report Generator",
+  "description": "A tool to generate formal Embrapa technical reports (DOCX) with AI-assisted writing.",
+  "requestFramePermissions": []
+}
